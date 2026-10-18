@@ -8,3 +8,4 @@ Lista de compras:
 - Arroz
 - Feijao
 - Leite
+- Cafe
