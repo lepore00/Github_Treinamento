@@ -14,3 +14,6 @@ Uma branch e uma linha de desenvolvimento separada. Ela permite trabalhar em mud
 
 ## Observacao
 A branch `main` continua preservada enquanto o trabalho desta aula acontece na branch `05_Branches`.
+
+## Teste_de_isolamento
+Esta seção foi escrita na branch `05_Branches`. Ela não existe na `main` até que as branches sejam integradas.
