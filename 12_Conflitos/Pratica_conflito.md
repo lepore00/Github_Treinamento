@@ -1,3 +1,3 @@
 # Pratica_conflito
 
-Cor_favorita: azul
+Cor_favorita: verde
