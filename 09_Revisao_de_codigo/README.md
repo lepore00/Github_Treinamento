@@ -34,7 +34,7 @@ Um bom comentário é respeitoso, específico e explica o motivo.
 Revisar um Pull Request é como pedir a um colega para ler um e-mail importante antes de você enviá-lo: ele pode apontar erros de digitação, trechos confusos ou informações faltando.
 
 ## Comentario_para_melhorar
-> O nome poderia ser melhor.
+O nome do arquivo Teste poderia ser mais descritivo. Sugiro Git_teste_de_isolamento, pois indica o assunto do material.
 
 Este comentário está incompleto de propósito: não diz qual nome, nem por que deveria mudar. Será usado na simulação de revisão desta aula.
 
