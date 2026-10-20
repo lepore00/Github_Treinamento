@@ -20,7 +20,7 @@ Reunir meus estudos práticos de Git e GitHub, do nível iniciante ao avançado.
 
 ## Progresso
 - [x] Preparação do ambiente
-- [ ] Fundamentos do Git
+- [x] Fundamentos do Git
 - [ ] Colaboração no GitHub
 - [ ] Automação e segurança
 - [ ] Recursos avançados
